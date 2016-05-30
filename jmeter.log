@@ -1,0 +1,170 @@
+2016/05/29 19:38:53 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: Loading user properties from: /usr/share/jmeter/bin/user.properties 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: Loading system properties from: /usr/share/jmeter/bin/system.properties 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: Copyright (c) 1998-2014 The Apache Software Foundation 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: Version 2.11.20141024 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: java.version=1.6.0_38 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: java.vm.name=OpenJDK 64-Bit Server VM 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: os.name=Linux 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: os.arch=amd64 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: os.version=3.19.0-59-generic 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: JMeterHome=/usr/share/jmeter 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: user.dir  =/home/juancho/distribuida/jmeter 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: PWD       =/home/juancho/distribuida/jmeter 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: IP: 127.0.1.1 Name: juancho-ThinkPad-T420 FullName: juancho-ThinkPad-T420 
+2016/05/29 19:38:53 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2016/05/29 19:38:54 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2016/05/29 19:38:54 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2016/05/29 19:38:54 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform, System] 
+2016/05/29 19:38:55 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
+2016/05/29 19:38:55 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2016/05/29 19:38:55 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2016/05/29 19:38:55 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2016/05/29 19:38:55 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2016/05/29 19:38:55 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2016/05/29 19:38:55 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2016/05/29 19:38:55 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.modifier.gui.ParamModifierGui 
+2016/05/29 19:38:55 INFO  - jorphan.exec.KeyToolUtils: keytool found at 'keytool' 
+2016/05/29 19:38:55 WARN  - jmeter.protocol.http.proxy.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that may not work for embedded resources in file /usr/share/jmeter/bin/proxyserver.jks 
+2016/05/29 19:38:56 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2016/05/29 19:38:56 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2016/05/29 19:38:56 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2016/05/29 19:38:56 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2016/05/29 19:38:59 INFO  - jmeter.services.FileServer: Default base='/home/juancho/distribuida/jmeter' 
+2016/05/29 19:38:59 INFO  - jmeter.gui.action.Load: Loading file: /home/juancho/distribuida/jmeter/Airports.jmx 
+2016/05/29 19:38:59 INFO  - jmeter.services.FileServer: Set new base='/home/juancho/distribuida/jmeter' 
+2016/05/29 19:38:59 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2016/05/29 19:38:59 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2016/05/29 19:38:59 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.6 
+2016/05/29 19:38:59 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1554411 
+2016/05/29 19:38:59 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2016/05/29 19:38:59 INFO  - jmeter.services.FileServer: Set new base='/home/juancho/distribuida/jmeter' 
+2016/05/29 19:39:20 INFO  - jmeter.protocol.http.proxy.ProxyControl: Generating standard keypair in /usr/share/jmeter/bin/proxyserver.jks 
+2016/05/29 19:39:21 INFO  - jmeter.protocol.http.proxy.Daemon: Creating Daemon Socket on port: 8080 
+2016/05/29 19:39:21 INFO  - jmeter.protocol.http.proxy.Daemon: Test Script Recorder up and running! 
+2016/05/29 19:39:38 INFO  - jmeter.protocol.http.proxy.Proxy: Proxy will remove the headers: If-Modified-Since,If-None-Match,Host 
+2016/05/29 19:39:38 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = juancho-ThinkPad-T420 
+2016/05/29 19:39:38 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2016/05/29 19:39:39 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: Setting up HTTPS TrustAll scheme 
+2016/05/29 19:39:39 INFO  - jmeter.util.JsseSSLManager: Using default SSL protocol: TLS 
+2016/05/29 19:39:39 INFO  - jmeter.util.JsseSSLManager: SSL session context: per-thread 
+2016/05/29 19:39:39 INFO  - jmeter.protocol.http.proxy.FormCharSetFinder: Using htmlparser version: 1.6 (Release Build Jun 10, 2006) 
+2016/05/29 19:39:39 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/05/29 19:40:38 INFO  - jmeter.protocol.http.proxy.Daemon: HTTP(S) Test Script Recorder stopped 
+2016/05/29 19:40:38 INFO  - jmeter.protocol.http.proxy.Daemon: Creating Daemon Socket on port: 8080 
+2016/05/29 19:40:38 INFO  - jmeter.protocol.http.proxy.Daemon: Test Script Recorder up and running! 
+2016/05/29 20:20:50 INFO  - jmeter.protocol.http.proxy.Proxy: [52478] KeyStore for SSL loaded OK and put host 'push.services.mozilla.com' in map with key (:jmeter:) 
+2016/05/29 20:20:51 WARN  - jmeter.protocol.http.proxy.Proxy: [52478] Problem with SSL certificate for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/05/29 20:21:51 WARN  - jmeter.protocol.http.proxy.Proxy: [52481] Problem with SSL certificate for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/05/29 20:23:51 WARN  - jmeter.protocol.http.proxy.Proxy: [52492] Problem with SSL certificate for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/05/29 20:27:51 WARN  - jmeter.protocol.http.proxy.Proxy: [52502] Problem with SSL certificate for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/05/29 20:32:51 WARN  - jmeter.protocol.http.proxy.Proxy: [52593] Problem with SSL certificate for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/05/29 20:37:51 WARN  - jmeter.protocol.http.proxy.Proxy: [52672] Problem with SSL certificate for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/05/29 20:42:51 WARN  - jmeter.protocol.http.proxy.Proxy: [52722] Problem with SSL certificate for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/05/30 06:56:25 WARN  - jmeter.protocol.http.proxy.Proxy: [52864] Problem with SSL certificate for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/05/30 07:01:25 WARN  - jmeter.protocol.http.proxy.Proxy: [52926] Problem with SSL certificate for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/05/30 07:05:22 INFO  - jmeter.gui.action.Load: Loading file: /home/juancho/distribuida/jmeter/Airports_basic.jmx 
+2016/05/30 07:05:22 INFO  - jmeter.services.FileServer: Set new base='/home/juancho/distribuida/jmeter' 
+2016/05/30 07:05:22 INFO  - jmeter.protocol.http.control.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_ 
+2016/05/30 07:05:22 INFO  - jmeter.services.FileServer: Set new base='/home/juancho/distribuida/jmeter' 
+2016/05/30 07:05:22 INFO  - jmeter.protocol.http.proxy.Daemon: HTTP(S) Test Script Recorder stopped 
+2016/05/30 07:05:39 INFO  - jmeter.services.FileServer: Set new base='/home/juancho/distribuida/jmeter' 
+2016/05/30 07:18:14 INFO  - jmeter.engine.StandardJMeterEngine: Listeners will be started after enabling running version 
+2016/05/30 07:18:14 INFO  - jmeter.engine.StandardJMeterEngine: To revert to the earlier behaviour, define jmeterengine.startlistenerslater=false 
+2016/05/30 07:18:14 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/05/30 07:18:14 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/05/30 07:18:14 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2016/05/30 07:18:14 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2016/05/30 07:18:14 INFO  - jmeter.engine.StandardJMeterEngine: Starting 5 threads for group Thread Group. 
+2016/05/30 07:18:14 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/05/30 07:18:14 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 5 ramp-up 10 perThread 2000.0 delayedStart=false 
+2016/05/30 07:18:14 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2016/05/30 07:18:14 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2016/05/30 07:18:14 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2016/05/30 07:18:14 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2016/05/30 07:18:14 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2016/05/30 07:18:14 INFO  - jmeter.services.FileServer: Stored: airports_states_codes_commas.csv 
+2016/05/30 07:18:16 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-2 
+2016/05/30 07:18:16 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2016/05/30 07:18:18 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-3 
+2016/05/30 07:18:18 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-2 
+2016/05/30 07:18:20 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-4 
+2016/05/30 07:18:20 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-3 
+2016/05/30 07:18:22 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-5 
+2016/05/30 07:18:22 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-4 
+2016/05/30 07:18:24 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-5 
+2016/05/30 07:18:24 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/05/30 07:18:24 INFO  - jmeter.services.FileServer: Close: airports_states_codes_commas.csv 
+2016/05/30 07:18:24 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
+2016/05/30 07:18:44 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/05/30 07:18:44 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/05/30 07:18:44 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2016/05/30 07:18:44 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2016/05/30 07:18:44 INFO  - jmeter.engine.StandardJMeterEngine: Starting 5 threads for group Thread Group. 
+2016/05/30 07:18:44 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/05/30 07:18:44 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 5 ramp-up 10 perThread 2000.0 delayedStart=false 
+2016/05/30 07:18:44 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2016/05/30 07:18:44 INFO  - jmeter.services.FileServer: Stored: airports_states_codes_commas.csv 
+2016/05/30 07:18:44 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2016/05/30 07:18:44 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2016/05/30 07:18:46 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-2 
+2016/05/30 07:18:46 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2016/05/30 07:18:48 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-3 
+2016/05/30 07:18:48 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-2 
+2016/05/30 07:18:50 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-4 
+2016/05/30 07:18:50 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-3 
+2016/05/30 07:18:52 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-5 
+2016/05/30 07:18:52 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-4 
+2016/05/30 07:18:54 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-5 
+2016/05/30 07:18:54 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/05/30 07:18:54 INFO  - jmeter.services.FileServer: Close: airports_states_codes_commas.csv 
+2016/05/30 07:18:54 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
+2016/05/30 07:19:09 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/05/30 07:19:09 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/05/30 07:19:09 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2016/05/30 07:19:10 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2016/05/30 07:19:10 INFO  - jmeter.engine.StandardJMeterEngine: Starting 5 threads for group Thread Group. 
+2016/05/30 07:19:10 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/05/30 07:19:10 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 5 ramp-up 10 perThread 2000.0 delayedStart=false 
+2016/05/30 07:19:10 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2016/05/30 07:19:10 INFO  - jmeter.services.FileServer: Stored: airports_states_codes_commas.csv 
+2016/05/30 07:19:10 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2016/05/30 07:19:10 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2016/05/30 07:19:12 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-2 
+2016/05/30 07:19:12 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2016/05/30 07:19:14 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-3 
+2016/05/30 07:19:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-2 
+2016/05/30 07:19:16 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-4 
+2016/05/30 07:19:16 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-3 
+2016/05/30 07:19:18 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-5 
+2016/05/30 07:19:18 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-4 
+2016/05/30 07:19:20 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-5 
+2016/05/30 07:19:20 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/05/30 07:19:20 INFO  - jmeter.services.FileServer: Close: airports_states_codes_commas.csv 
+2016/05/30 07:19:20 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
+2016/05/30 07:20:23 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/05/30 07:20:23 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/05/30 07:20:23 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2016/05/30 07:20:23 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2016/05/30 07:20:23 INFO  - jmeter.engine.StandardJMeterEngine: Starting 5 threads for group Thread Group. 
+2016/05/30 07:20:23 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/05/30 07:20:23 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 5 ramp-up 10 perThread 2000.0 delayedStart=false 
+2016/05/30 07:20:23 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2016/05/30 07:20:23 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2016/05/30 07:20:23 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2016/05/30 07:20:23 INFO  - jmeter.services.FileServer: Stored: airports_states_codes_commas.csv 
+2016/05/30 07:20:25 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-2 
+2016/05/30 07:20:26 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2016/05/30 07:20:27 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-3 
+2016/05/30 07:20:28 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-2 
+2016/05/30 07:20:29 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-4 
+2016/05/30 07:20:30 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-3 
+2016/05/30 07:20:31 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-5 
+2016/05/30 07:20:32 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-4 
+2016/05/30 07:20:34 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-5 
+2016/05/30 07:20:34 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/05/30 07:20:34 INFO  - jmeter.services.FileServer: Close: airports_states_codes_commas.csv 
+2016/05/30 07:20:34 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
