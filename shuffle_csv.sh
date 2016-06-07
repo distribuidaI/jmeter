@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# OJO -> python lo agarra y lo sube a memoria. No puede ser un CSV gigantesco
+#
 
 SHUFFLED_FILE="shuffled_$1"
 
